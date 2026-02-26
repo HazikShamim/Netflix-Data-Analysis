@@ -3,11 +3,13 @@
 This project analyzes the Netflix dataset to extract meaningful insights about movies, genres, and directors. The dataset was sourced from Kaggle, cleaned using Python (Pandas), and analyzed using SQL Server.
 The goal of this project was to demonstrate end-to-end data analysis skills — from data cleaning to advanced SQL querying.
 
+
 1. Tools & Technologies
 Python (Pandas)
 SQL Server (SSMS)
 SQLAlchemy
 Kaggle Dataset
+
 
 2. Project Workflow
 1️⃣ Data Collection
@@ -28,6 +30,7 @@ netflix
 netflix_genre
 netflix_directors
 
+
 3. Key SQL Analysis
 1️⃣ Top Director Per Year (Movies Only)
 Filtered dataset for movies
@@ -44,7 +47,7 @@ Used conditional aggregation (CASE WHEN)
 Identified directors who worked across multiple genres
 Counted the number of comedy and horror movies per director
 
-4.Skills Demonstrated
+4. Skills Demonstrated
 Data cleaning and preprocessing
 Handling missing values and duplicates
 SQL joins and aggregations
