@@ -10,7 +10,6 @@ SQL Server (SSMS)
 SQLAlchemy
 Kaggle Dataset
 
-
 2. Project Workflow
 1️⃣ Data Collection
 Downloaded Netflix dataset from Kaggle (ZIP format)
